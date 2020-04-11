@@ -1,0 +1,10 @@
+body {
+  margin: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.DraftEditor-editorContainer {
+  min-height: 500px;
+  background-color: beige;
+}
